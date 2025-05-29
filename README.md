@@ -32,3 +32,6 @@ Type a task into the input field.
 Click ADD to insert it into the list.
 
 Click the 🗑️ delete button to remove a task.
+
+deploy:-
+render:- https://to-do-application-frontend-omega.vercel.app/
