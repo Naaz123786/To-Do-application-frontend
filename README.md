@@ -1,4 +1,5 @@
- Features
+Features
+
 ✅ Add new tasks
 
 🗑️ Delete completed tasks
@@ -20,7 +21,7 @@ git clone https://github.com/Naaz123786/to-do-app.git
 
 2. Open the project in your browser:
 
-Simply open todo.html in any modern web browser.
+Simply open index.html in any modern web browser.
 
 No build tools or server setup required.
 
